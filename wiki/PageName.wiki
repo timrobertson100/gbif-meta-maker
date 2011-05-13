@@ -10,7 +10,7 @@ Changes in this document will be listed by date, beginning with the most recentl
 
 == May 2011 ==
 
- === May 16st, 2011 ===
+ === May 16th, 2011 ===
  Version: 1.1<br>
 
  * Added support to load previous saved meta.xml files
